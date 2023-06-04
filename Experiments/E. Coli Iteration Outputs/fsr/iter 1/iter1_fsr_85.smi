@@ -1,0 +1,5 @@
+CC(=O)OOC1C(=O)N2C(C(=O)O)=C(CSc3nnnn3C)CSC12
+CN1CCN(c2ccc3c(=O)c(C(=O)O)cn(C)c3c2)CC1
+COC1CN(c2ccc3c(=O)c(C(=O)O)cn(CC(C)C)c3c2)CCN1C
+CON=C(O)C1C(=O)N2C(C(=O)O)=C(CSc3nnnn3C)CSC12
+CON=C(C(=O)NC1C(=O)N2C(C(=O)[O-])=C(CSc3nncn3C)CSC12)c1csc(O)n1
